@@ -1,2 +1,2 @@
 # LinkedList
-Implimentation of LInkedList
+Implimentation of LinkedList
